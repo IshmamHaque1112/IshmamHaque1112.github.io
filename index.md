@@ -1,3 +1,5 @@
+Project 2: https://github.com/IshmamHaque1112/IshmamHaqueCSCI313Projects/blob/main/313Ishmam_Haque_Project_2.zip
+Converted a string of a mathematical expression into a binary tree, and checked if a tree was a subtree of another.
 Current resume as of October 22, 2021
 Linkedin: [Link](https://www.linkedin.com/in/ishmam-haque-653a17182/)
 Github: [Link](https://github.com/IshmamHaque1112)
